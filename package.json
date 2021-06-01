@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@henriw22/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "a collection of utility functions for assertion",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/henriw22/lotide.git"
   },
-  "author": "",
+  "author": "Henri William",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/henriw22/lotide/issues"
